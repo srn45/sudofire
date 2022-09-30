@@ -1,0 +1,11 @@
+#table{
+    background-color: rgb(201, 240, 193);
+    display: flex;
+    width: 500px;
+    height: max-content;
+    
+}
+#image{
+    width: 10px;
+    height: 10px;
+}
